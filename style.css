@@ -1,0 +1,81 @@
+*{
+    font-family: "Nova Round", system-ui;
+}
+
+.maincon{
+    background-image: url("./images/wp9384730-mountain-hike-4k-wallpapers.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.buttoncl{
+    margin-left: 46%;
+    margin-top: 30%;
+}
+.img{
+    width: 60px;
+}
+.butt{
+    margin-top: 40px;
+    margin-left: 46%;
+}
+.vid{
+    height: 50vh;
+    background-image: url("https://img.veenaworld.com/wp-content/uploads/2018/06/kerala-snake-boat-race-feature-image.jpg");
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+}
+.other h1{
+    text-align: center;
+}
+.vid h1{
+    color: rgb(92, 92, 129);
+    text-align: center;
+    
+}
+.buttnw{
+    margin-top: 10%;
+    margin-left: 43%;
+}
+.Dance{
+    margin-left: 80px
+}
+.north{
+    margin-top: 40px;
+}
+.north h1{
+    text-align: center;
+}
+.feat h1{
+    text-align: center;
+}
+.mail h3{
+    font-family: "Pacifico", system-ui;
+    text-align: center;
+    color: rgb(0, 58, 39);
+}
+.logo{
+    margin-left: 48%;
+}
+.frst{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+li{
+    text-decoration: none;
+    list-style: none;
+    display: inline;
+  margin-right: 10px;
+  
+}
+.footer{
+    background-color: rgb(1, 1, 56);
+    color:#FFD43B;;
+}
+.footer h5{
+    font-weight: 600;
+}
